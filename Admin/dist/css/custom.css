@@ -1,0 +1,61 @@
+.job-posting-card {
+    border-radius: 10px;
+}
+
+.job-posting-card-head
+{
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+.select2-selection--single {
+    height: 35px !important;
+}
+
+.select2-selection__rendered {
+    line-height: 34px !important;
+    color: black !important;
+}
+
+.select2-selection__arrow {
+    top: 5px !important;
+}
+
+.form-control,.select2-container--default .select2-selection--single,.custom-file-label,.multiselect  {
+    border: 1px solid #d3d3d3 !important;
+}
+
+.invalid-feedback {
+    color: red !important;
+}
+
+.ajax-preloader {
+    z-index: 99999;
+    background: #b5b5b58f;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    display: none;
+}
+
+.custom-file-label {
+    overflow: hidden !important;
+}
+
+.add_btn {
+    border-radius: 4px;
+}
+
+.multiselect-selected-text {
+    color: black;
+}
+
+.navbar-brand
+{
+    height: 69px;
+}
+
+.navbar-brand-active{
+    width: 250px;
+}
